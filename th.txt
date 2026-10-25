@@ -1,0 +1,51 @@
+JS 
+--
+Java Script 
+
+Java vs JavaScript
+-> both are seperate programming languages
+
+JS 
+--
+Run time Environment -- Browser -- 
+Execution Engine -- which will execute js 
+
+Chrome -- V8 Engine 
+
+Node JS -- Run time environment 
+
+<==========================================>
+JS Code 
+-------
+1. Internal JS 
+<script>
+    # code 
+</script>
+
+2. External JS 
+<script src="fileName.js"></script>
+
+<=============================================>
+DOM 
+---
+Document Object Model 
+root  Element -- document 
+
+
+1. Server fetch HTML File 
+2. Browser converts it to DOM (Tree Structure of HTML Page)
+3. Css is read and applied 
+4. Js is read and applied 
+5. browser paints entire output on screen 
+
+<==============================================================>
+How to Open Console 
+right click in browser -> inspect -> console 
+
+<==============================================================>
+1. Introduction to JS (theory)
+2. document.write --- output will be displayed on browser screen (and tags can also be applied)
+3. console.log    -- output will be displayed in console in browser 
+
+
+variables -> variables printing -> dialog boxes 
