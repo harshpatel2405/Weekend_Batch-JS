@@ -1,0 +1,10 @@
+Dialog Box 
+----------
+for user interaction 
+browser components
+
+1. alert 
+--> provide info to user -- ok
+
+2. prompt 
+3. confirm 

@@ -47,5 +47,16 @@ right click in browser -> inspect -> console
 2. document.write --- output will be displayed on browser screen (and tags can also be applied)
 3. console.log    -- output will be displayed in console in browser 
 
+<==============================================================>
+variable
+--------
+container which stores value 
 
+
+<==============================================================>
 variables -> variables printing -> dialog boxes 
+
+
+hw 1 : ask for a character and check if that character is vowel or consonant 
+hw 2 : ask for a two numbers and print their sum and multiplication
+hw 3 : ask for a name and surname from user and print both together.... 
